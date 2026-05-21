@@ -1,4 +1,4 @@
-# Office Relocation Optimization
+<img width="225" height="335" alt="image" src="https://github.com/user-attachments/assets/04c37863-6efe-46fd-9ea5-e18ae39f24aa" /># Office Relocation Optimization
 
 Optimization of personnel moves during a multi-phase building renovation. The goal is to find the minimum number of moves to go from an initial office configuration to a target final one, across 5 renovation phases, subject to capacity and availability constraints.
 
@@ -54,7 +54,7 @@ pip install pulp cvxpy numpy
 ## Run
 
 ```bash
-git clone https://github.com/your-username/office-relocation-optimization.git
+git clone https://github.com/Arokn/office-relocation-optimization.git
 cd renovation-relocation-LP-SDP
 jupyter notebook office_relocation_optimization.ipynb
 ```
